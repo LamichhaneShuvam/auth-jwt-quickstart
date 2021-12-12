@@ -1,0 +1,5 @@
+.eslintrc.json
+.env
+node_modules
+model/note.js
+model/category.js
